@@ -1,6 +1,7 @@
-<a href="https://www.iamzlt.com/">  
-    <img src="https://www.iamzlt.com/wp-content/uploads/2024/11/431732272959_.pic_hd.png" alt="Header" title="Header" style="border-radius: 10px; width: 100%; height: auto;">  
-</a>
+
+[![Header](https://www.iamzlt.com/wp-content/uploads/2024/11/maintitle.png
+ "Header")](https://www.iamzlt.com/)
+
 
 - 👋 Hi, I’m @IamZLT
 - 👀 I’m interested in ...
