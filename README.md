@@ -11,6 +11,12 @@
 
 </p>
 
+
+
+<img align="right" alt="GIF" src="src/assert/gzh.png" width="460" height="160" title="Do what you like, and do it best!"> 
+
+
+
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
@@ -36,6 +42,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
     
 <br>
+
+
 
 
 <!---
